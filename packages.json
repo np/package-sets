@@ -1892,6 +1892,19 @@
     "repo": "https://github.com/AlexaDeWit/purescript-text-encoding.git",
     "version": "v0.0.8"
   },
+  "thermite": {
+    "dependencies": [
+      "aff",
+      "coroutines",
+      "web-dom",
+      "freet",
+      "profunctor-lenses",
+      "react",
+      "react-dom"
+    ],
+    "repo": "https://github.com/np/purescript-thermite.git",
+    "version": "hide"
+  },
   "these": {
     "dependencies": [
       "gen",
